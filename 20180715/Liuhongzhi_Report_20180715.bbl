@@ -1,0 +1,9 @@
+\begin{thebibliography}{1}\itemsep=-1pt
+
+\bibitem{Ren2015Faster}
+S.~Ren, K.~He, R.~Girshick, and J.~Sun.
+\newblock Faster {R-CNN}: Towards real-time object detection with region
+  proposal networks.
+\newblock In {\em NIPS}, 2015.
+
+\end{thebibliography}
